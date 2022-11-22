@@ -1,3 +1,3 @@
-Tässä kirjoitan nanolla tekstiä luomaani .txt tiedostoon. 
+Muokkaan ensimmäisen lauseen selain versiossa.
 Tarkoitus on tehdä kohta toinenkin .txt tiedosto jne... 
 Sen jälkeen jatkan tekemään kansiota ja siirrän kaiken githubiin tehtävän lopuksi.
