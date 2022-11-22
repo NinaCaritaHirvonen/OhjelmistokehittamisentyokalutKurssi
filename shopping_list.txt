@@ -5,4 +5,4 @@ kahvi
 joulukalenteri tarvikkeet
 mandariini
 banaani
-leipä
+ei tarvetta leivälle
